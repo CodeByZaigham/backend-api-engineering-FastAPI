@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="Screenshots/topics covered.png" alt="topics covered picture" width="100%">
+</p>
 <div align="center">
 
 # ⚙️ Backend API Engineering with FastAPI
